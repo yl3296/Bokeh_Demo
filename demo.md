@@ -20,6 +20,7 @@ An interactive, browser–based visualization library, driven from Python
 * vovel, animated graphics
  * *two types of graph: static plot & server plot*
 **Set Up**
+
 ```
 Conda install bokeh      # if using Anaconda
 Pip install bokeh           # if using pip
@@ -28,10 +29,11 @@ To get up-to-date version:
 conda install -c bokeh/channel/dev 
 ```
 **Demo1**
+
 * Classification-Iris Morphology
-* *Given:*
+  **Given:*
   Three kinds of flowers, four features
-* *Goal:* 
+  **Goal:* 
   Feature selection based on pairwise correlation
 
 
