@@ -39,7 +39,7 @@ conda install -c bokeh/channel/dev
 
 ![iris](https://cloud.githubusercontent.com/assets/10662777/7507077/ec531bd8-f437-11e4-8951-c5cfd1527c4a.png)
 
-#####![iris_2](https://cloud.githubusercontent.com/assets/10662777/7507083/00ea3086-f438-11e4-8e84-fd9e7f6dbc94.png)
+![iris_2](https://cloud.githubusercontent.com/assets/10662777/7507083/00ea3086-f438-11e4-8e84-fd9e7f6dbc94.png)
 
 ```
 from __future__ import print_function
