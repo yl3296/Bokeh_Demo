@@ -8,16 +8,16 @@ tags: Bokeh, interactive,graph
 ---
 
 ##Introduction
-*Bokeh*
+**Bokeh**
 
 Interactive, browser–based visualization library, driven from Python
 
 **Features**
 
-interactive visualization
-web as first class interface target
-no need to write JavaScript.
-vovel, animated graphics
+* interactive visualization
+*  as first class interface target
+* no need to write JavaScript.
+* vovel, animated graphics
 
-* two types of graph: static plot & server plot
+  *two types of graph: static plot & server plot*
 
