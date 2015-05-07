@@ -31,9 +31,9 @@ conda install -c bokeh/channel/dev
 **Demo1**
 
 * Classification-Iris Morphology
-* *Given:*
+  * *Given:*
   Three kinds of flowers, four features
-* *Goal:* 
+  * *Goal:* 
   Feature selection based on pairwise correlation
 
 
