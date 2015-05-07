@@ -8,6 +8,7 @@ tags: Bokeh, interactive,graph
 ---
 
 ###Introduction
-**Bokeh**
+** Bokeh**
 
 Interactive, browser–based visualization library, driven from Python
+**Features**
