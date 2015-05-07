@@ -18,5 +18,5 @@ interactive visualization
 web as first class interface target
 no need to write JavaScript.
 vovel, animated graphics
-_two types of graph: static plot & server plot
+*two types of graph: static plot & server plot
 
